@@ -14,5 +14,9 @@ Específicos:
 - Comparar los valores teóricos obtenidos anteriormente mediante cálculos, con los valores obtenidos experimentalmente en el simulador y así comprobar la veracidad del análisis de nodos.
 
 Anexos:
+
+Cálculos Analíticos:
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo1.jfif)
+
+Análisis de errores:
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo2.jfif)
