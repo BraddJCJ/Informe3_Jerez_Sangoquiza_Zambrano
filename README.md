@@ -8,7 +8,7 @@ Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.
 NRC: 8702   
 Fecha: 2020 - 06 - 17  
 
-2.- Objetivos.
+2.- OBJETIVOS.
 
 Generales:
 
@@ -19,3 +19,10 @@ Específicos:
 - Implementar el circuito en la plataforma virtual TINKERCAD.
 - Realizar las debidas mediciones de voltaje mediante el multímetro virtual que nos brinda la plataforma.
 - Comparar los valores teóricos obtenidos anteriormente mediante cálculos, con los valores obtenidos experimentalmente en el simulador y así comprobar la veracidad del análisis de nodos.
+
+4.- DIAGRAMAS.
+
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama_1.PNG)
+
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama_2.PNG)
+
