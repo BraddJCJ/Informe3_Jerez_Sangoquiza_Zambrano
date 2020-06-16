@@ -53,8 +53,10 @@ Sie el circuito solo tiene fuentes de corriente independientes entonces se aplic
 
 4.- DIAGRAMAS
 
-![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama01.PNG)
-![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama02.PNG)
+
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama_1.PNG)
+
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama_2.PNG)
 
 
 5.- LISTA DE COMPONENTES 
@@ -67,9 +69,22 @@ Sie el circuito solo tiene fuentes de corriente independientes entonces se aplic
 * 2 Fuentes de voltaje  V1 y V2 12v y 8v.
 * n Multimetros
 
- DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN:
+6.-  DESCRIPCCION DE PREREQUISITOS Y CONFIGURACIÓN:
  
  Para una mejor apreciación sobre el circuito, se realizó adicionalmente el análisis a través de la aplicación de Proteus, de modo que se visualice con precisión el análisis de nodos, además de sus valores.
+ 
+ 7.- CONCLUSIONES
+ 
+
+    
+ 8.-RECOMENDACIONES
+ 
+ 9.- CRONOGRAMA
+ 
+ 10.- BIBLIOGRAFIA
+ 
+ - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
+-  Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
 
  ANEXOS:
  
