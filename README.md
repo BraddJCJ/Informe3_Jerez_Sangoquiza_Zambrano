@@ -53,15 +53,8 @@ Sie el circuito solo tiene fuentes de corriente independientes entonces se aplic
 
 4.- DIAGRAMAS
 
-Circuito de la práctica:
-
-![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/CircuitoP3.PNG)
-
-Elementos del circuito: 
 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama01.PNG)
-
-Nodos:
 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama02.PNG)
 
@@ -89,10 +82,11 @@ encontrar ciertas medidas que necesitemos en un sector del circuito
 que ayuda a generar conocimiento ara una medición practica más acertada.
 - Las mediciones conseguidas fueron muy parecidas a los valores calculados, lo
 que comprueba la veracidad de las leyes de Kirchhoff. 
-
-
     
  8.-RECOMENDACIONES
+ 
+ Es preferibke tener un nodo de referencia para el analisis nodal de un circuito electico, el cual representara la tierra y tendra un valor de voltaje igual a cero. Procurar un manejo cuidadoso de  los diferentes cables en la simulación puesto que al realizar su analisis nodal puede generarnos problemas en la medicion y comprovación de los voltajes en los nodos.
+ 
  
  9.- CRONOGRAMA
  
