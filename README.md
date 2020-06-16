@@ -50,11 +50,13 @@ Sie el circuito solo tiene fuentes de corriente independientes entonces se aplic
 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/250px-KCL_-_Kirchhoff's_circuit_laws.svg.png)
 
-4.- DIAGRAMAS.
+4.- DIAGRAMAS
+
 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama_1.PNG)
 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama_2.PNG)
+
 
 5.- LISTA DE COMPONENTES 
 
