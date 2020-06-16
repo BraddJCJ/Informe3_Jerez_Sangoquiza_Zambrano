@@ -49,6 +49,7 @@ Fuentes dependientes de corriente o voltaje ( Se deben escribir las eccuaciones 
 Sie el circuito solo tiene fuentes de corriente independientes entonces se aplica el metodo de nodos.
 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/250px-KCL_-_Kirchhoff's_circuit_laws.svg.png)
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Primera.jpg)
 
 4.- DIAGRAMAS
 
