@@ -26,3 +26,12 @@ Específicos:
 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama_2.PNG)
 
+5.- LISTA DE COMPONENTES 
+
+* 1 Resistor  R1  1.8 Kohm
+* 1 Resistor  R2  2.2 kohm 
+* 1 Resistor  R3  470 ohm
+* 1 Resistor  R4  1.5 Kohm 
+* 1 Resistor  R5  3.9 kohm
+* 2 Fuentes de voltaje  V1 y V2 12v y 8v.
+* n Multimetros
