@@ -1,48 +1,65 @@
-UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+# Informe3_Jerez_Sangoquiza_Zambrano
+UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
-![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Logo_ESPE.png)
+![](https://github.com/BraddJCJ/Informe2_JEREZ_SANGOQUIZA_ZAMBRANO/blob/master/img/Logo_ESPE.png)
 
-¨Práctica de Laboratorio N°3 Análisis de nodos¨  
-¨Fundamentos de Circuitos Eléctricos¨  
-Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.  
-NRC: 8702   
-Fecha: 2020 - 06 - 17  
+"Practica N°3 de Laboratorio
 
-2.- OBJETIVOS.
+"Fundamentos de Circuitos Eléctronicos"
+
+Integrantes: Jerez Bradd; Sangoquiza Andrés; Zambrano Jonathan.
+
+NRC: 8702
+
+Fecha: 2020-06-17
+
+1.- PLANTEAMIENTO DEL PROBLEMA
+
+¿Cuáles son los voltajes respectivos en cada nodo del circuito? ¿La leyes de corriente de kirchhoff nos permitirán analizar debidamente el circuito? ¿Qué características presenta un análisis nodal en un circuito electrónico?¿Cuál será el porcentaje de error en el voltaje que se presentará entre los datos simulados y analizados?
+
+2.-OBJETICOS 
 
 Generales:
 
-- Comprobar experimentalmente el análisis de nodos midiendo los voltajes en cada uno de ellos.
+- Verificar por medio de la simulación del circuito los valores de voltajes en cada nodo  del mismo, a traves del uso de las leyes de Ohm y las leyes de  corriente de  Kirchhoff.
 
-Específicos:
+Especificos:
 
-- Implementar el circuito en la plataforma virtual TINKERCAD.
-- Realizar las debidas mediciones de voltaje mediante el multímetro virtual que nos brinda la plataforma.
-- Comparar los valores teóricos obtenidos anteriormente mediante cálculos, con los valores obtenidos experimentalmente en el simulador y así comprobar la veracidad del análisis de nodos.
+- Comprender como se relaciona la ley de corrientes de Kirchhooff para  calcular los voltajes requeridos.
+- Identificar la Forma correncta de medición de voltajes con el multimetro digital para el circuito resistivo y proceder a su analisis por el metodo nodal.
+- Comparar los calculos analíticis con los simulados y encontrar el margen de error entre estos, el cual no supere el 5%.
+  
+3.- MARCO TEORICO
 
-4.- DIAGRAMAS.
+ANALISIS DE NODOS EN UN CIRCUITO ELECTRONICO
 
-![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama01.PNG)
+En el análisis por nodos se parte de la aplicación de KCL a cada nodo del circuito
+para encontrar al final todos los voltajes de nodo del circuito. Para que el sistema de
+ecuaciones sea consistente debe haber una ecuación por cada nodo. Así el número
+de incógnitas (voltajes de nodo) es igual al número de ecuaciones (una por nodo).
+De acuerdo al tipo de circuito y la forma en que se seleccione el nodo de referencia
+se pueden tener distintas posibilidades de conexión de las fuentes:
 
-![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama02.PNG)
+• Fuentes de corriente independientes. 
 
-5.- LISTA DE COMPONENTES 
+• Fuentes de corriente controladas. 
 
-* 1 Resistor  R1  1.8 Kohm
-* 1 Resistor  R2  2.2 kohm 
-* 1 Resistor  R3  470 ohm
-* 1 Resistor  R4  1.5 Kohm 
-* 1 Resistor  R5  3.9 kohm
-* 2 Fuentes de voltaje  V1 y V2 12v y 8v.
-* n Multimetros
+• Fuentes de voltaje independientes a tierra. 
 
- Anexos:
- 
- Cálculo Analítico:
- ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo1.jfif)
- 
- Análisis de errores:
- ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo2.jfif)
- 
- Análisis en Proteus:
- ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo3.png)
+• Fuentes de voltaje independientes flotantes. 
+
+• Fuentes de voltaje controladas a tierra. 
+
+• Fuentes de voltaje controladas flotantes . 
+
+El método que llamaremos general aplica a los casos de circuitos con fuentes de
+corriente independientes y fuentes de voltaje independientes a tierra. Este metodo no aplica a los circuitos que tienen:
+
+- Fuentes flotantes de voltaje (Se usa el método de súper nodos)
+- Fuentes dependientes de corriente o voltaje ( Se deben escribir las eccuaciones de dependencia de la variable controlada y controladora).
+
+Sie el circuito solo tiene fuentes de corriente independientes entonces se aplica el metodo de nodos.
+
+
+
+  
