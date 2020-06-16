@@ -53,9 +53,13 @@ Sie el circuito solo tiene fuentes de corriente independientes entonces se aplic
 
 4.- DIAGRAMAS
 
+Circuito de la ppráctica:
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/CircuitoP3.PNG)
 
+Elementos del circuito: 
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama01.PNG)
 
+Nodos:
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Diagrama02.PNG)
 
 
