@@ -75,6 +75,14 @@ Sie el circuito solo tiene fuentes de corriente independientes entonces se aplic
  
  7.- CONCLUSIONES
  
+ -  Una parte importante del uso de nodos en un circuito eléctrico, es que estos están definidos por las uniones de 3 o más cables por donde circulan los diferentes elementos como voltaje o corriente.
+ -  Tener un nodo conectado a un punto de referencia o a tierra, nos permitirá
+encontrar ciertas medidas que necesitemos en un sector del circuito
+- El uso de nodos simplifica las mediciones de sectores en el circuito, además de
+que ayuda a generar conocimiento ara una medición practica más acertada.
+- Las mediciones conseguidas fueron muy parecidas a los valores calculados, lo
+que comprueba la veracidad de las leyes de Kirchhoff. 
+
 
     
  8.-RECOMENDACIONES
