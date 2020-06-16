@@ -35,3 +35,14 @@ Específicos:
 * 1 Resistor  R5  3.9 kohm
 * 2 Fuentes de voltaje  V1 y V2 12v y 8v.
 * n Multimetros
+
+ Anexos:
+ 
+ Cálculo Analítico:
+ ![] (https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo1.jfif)
+ 
+ Análisis de errores:
+ ![] (https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo2.jfif)
+ 
+ Análisis en Proteus:
+ ![] (https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo3.png)
