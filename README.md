@@ -71,22 +71,21 @@ Sie el circuito solo tiene fuentes de corriente independientes entonces se aplic
 
 6.-  DESCRIPCCION DE PREREQUISITOS Y CONFIGURACIÓN:
  
- Para una mejor apreciación sobre el circuito, se realizó adicionalmente el análisis a través de la aplicación de Proteus, de modo que se visualice con precisión el análisis de nodos, además de sus valores.
+
+Para una mejor apreciación sobre el circuito, se realizó adicionalmente el análisis a través de la aplicación de Proteus, de modo que se visualice con precisión el análisis de nodos, además de sus valores.
  
  7.- CONCLUSIONES
  
  -  Una parte importante del uso de nodos en un circuito eléctrico, es que estos están definidos por las uniones de 3 o más cables por donde circulan los diferentes elementos como voltaje o corriente.
  -  Tener un nodo conectado a un punto de referencia o a tierra, nos permitirá
 encontrar ciertas medidas que necesitemos en un sector del circuito
-- El uso de nodos simplifica las mediciones de sectores en el circuito, además de
-que ayuda a generar conocimiento ara una medición practica más acertada.
+- El uso de nodos simplifica las mediciones de sectores en el circuito, además de que ayuda a generar conocimiento para una medición práctica más acertada.
 - Las mediciones conseguidas fueron muy parecidas a los valores calculados, lo
 que comprueba la veracidad de las leyes de Kirchhoff. 
     
  8.-RECOMENDACIONES
  
- Es preferibke tener un nodo de referencia para el analisis nodal de un circuito electico, el cual representara la tierra y tendra un valor de voltaje igual a cero. Procurar un manejo cuidadoso de  los diferentes cables en la simulación puesto que al realizar su analisis nodal puede generarnos problemas en la medicion y comprovación de los voltajes en los nodos.
- 
+Es preferible tener un nodo de referencia para el análisis nodal de un circuito eléctrico, el cual representará la tierra y tendrá un valor de voltaje igual a cero. Procurar un manejo cuidadoso de los diferentes cables en la simulación puesto que al realizar su análisis nodal puede generarnos problemas en la medición y comprobación de los voltajes en los nodos. 
  
  9.- CRONOGRAMA
  
