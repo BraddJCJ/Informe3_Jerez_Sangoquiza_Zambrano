@@ -96,6 +96,8 @@ Es preferible tener un nodo de referencia para el análisis nodal de un circuito
  
  9.- CRONOGRAMA:
  
+![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Cronograma.3.png)
+
  10.- BIBLIOGRAFIA
  
  - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
