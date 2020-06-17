@@ -8,11 +8,11 @@ Integrantes: Jerez Bradd; Sangoquiza Andrés; Flores de Valgas Jonathan.
 NRC: 8702   
 Fecha: 2020 - 06 - 17  
 
-1.- PLANTEAMIENTO DEL PROBLEMA
+1.- PLANTEAMIENTO DEL PROBLEMA:
 
 ¿Cuáles son los voltajes respectivos en cada nodo del circuito? ¿La leyes de corriente de kirchhoff nos permitirán analizar debidamente el circuito? ¿Qué características presenta un análisis nodal en un circuito electrónico?¿Cuál será el porcentaje de error en el voltaje que se presentará entre los datos simulados y analizados?
 
-2.- OBJETIVOS.
+2.- OBJETIVOS:
 
 Generales:
 
@@ -24,7 +24,7 @@ Específicos:
 - Realizar las debidas mediciones de voltaje mediante el multímetro virtual que nos brinda la plataforma.
 - Comparar los valores teóricos obtenidos anteriormente mediante cálculos, con los valores obtenidos experimentalmente en el simulador y así comprobar la veracidad del análisis de nodos.
 
-3.- MARCO TEORICO
+3.- MARCO TEORICO:
 
 ANALISIS DE NODOS EN UN CIRCUITO ELECTRONICO
 
@@ -51,7 +51,7 @@ Sie el circuito solo tiene fuentes de corriente independientes entonces se aplic
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/250px-KCL_-_Kirchhoff's_circuit_laws.svg.png)
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Primera.jpg)
 
-4.- DIAGRAMAS
+4.- DIAGRAMAS:
 
 Circuito de la práctica:
 
@@ -66,7 +66,7 @@ Nodos:
 ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/DiagramaN.PNG)
 
 
-5.- LISTA DE COMPONENTES 
+5.- LISTA DE COMPONENTES: 
 
 * 1 Resistor  R1  1.8 Kohm
 * 1 Resistor  R2  2.2 kohm 
@@ -81,7 +81,7 @@ Nodos:
 
 Para una mejor apreciación sobre el circuito, se realizó adicionalmente el análisis a través de la aplicación de Proteus, de modo que se visualice con precisión el análisis de nodos, además de sus valores.
  
- 7.- CONCLUSIONES
+ 7.- CONCLUSIONES:
  
  -  Una parte importante del uso de nodos en un circuito eléctrico, es que estos están definidos por las uniones de 3 o más cables por donde circulan los diferentes elementos como voltaje o corriente.
  -  Tener un nodo conectado a un punto de referencia o a tierra, nos permitirá
@@ -90,18 +90,18 @@ encontrar ciertas medidas que necesitemos en un sector del circuito
 - Las mediciones conseguidas fueron muy parecidas a los valores calculados, lo
 que comprueba la veracidad de las leyes de Kirchhoff. 
     
- 8.-RECOMENDACIONES
+ 8.-RECOMENDACIONES:
  
 Es preferible tener un nodo de referencia para el análisis nodal de un circuito eléctrico, el cual representará la tierra y tendrá un valor de voltaje igual a cero. Procurar un manejo cuidadoso de los diferentes cables en la simulación puesto que al realizar su análisis nodal puede generarnos problemas en la medición y comprobación de los voltajes en los nodos. 
  
- 9.- CRONOGRAMA
+ 9.- CRONOGRAMA:
  
  10.- BIBLIOGRAFIA
  
  - Sadiku Matthew N. (2006). Fundamentos de Circuitos Eléctricos. McGraw-Hill Interamericana. México D. F.
 -  Richard C. Dorf y James A. Svoboda. (2006). Introduccion Circuitos Electronicos. 6ta Ed. John Willey & Sons, Inc. Mexico D.F.
 
- ANEXOS:
+ 11.-ANEXOS:
  
  Cálculo Analítico:
  ![](https://github.com/BraddJCJ/Informe3_Jerez_Sangoquiza_Zambrano/blob/master/img/Anexo1.jfif)
